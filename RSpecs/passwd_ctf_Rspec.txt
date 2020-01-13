@@ -14,7 +14,7 @@
 
     <services xmlns="http://www.geni.net/resources/rspec/3">
 
-      <execute xmlns="http://www.geni.net/resources/rspec/3" command="sudo wget --no-check-certificate -O /local/setup.py https://raw.githubusercontent.com/s-nat-e0/ctf-setup/master/passwdcrks.py" shell="/bin/sh"/>
+      <execute xmlns="http://www.geni.net/resources/rspec/3" command="sudo wget --no-check-certificate -O /local/setup.py https://raw.githubusercontent.com/mundruid/ctf-setup/master/passwdcrks.py" shell="/bin/sh"/>
 
       <execute xmlns="http://www.geni.net/resources/rspec/3" command="sudo apt update " shell="/bin/sh"/>
 
@@ -42,7 +42,7 @@
 
     <services xmlns="http://www.geni.net/resources/rspec/3">
 
-      <execute xmlns="http://www.geni.net/resources/rspec/3" command="sudo wget --no-check-certificate -O /local/setup.py https://raw.githubusercontent.com/s-nat-e0/ctf-setup/master/passwdcrks.py" shell="/bin/sh"/>
+      <execute xmlns="http://www.geni.net/resources/rspec/3" command="sudo wget --no-check-certificate -O /local/setup.py https://raw.githubusercontent.com/mundruid/ctf-setup/master/passwdcrks.py" shell="/bin/sh"/>
 
       <execute xmlns="http://www.geni.net/resources/rspec/3" command="sudo apt update " shell="/bin/sh"/>
 
